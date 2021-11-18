@@ -68,3 +68,15 @@
     text-align: center;
     margin-top: 274px;
 }
+
+.tweet-follow-main{
+    padding-top: 10px;
+    background-color: #1da0f2;
+    font-weight: bold;
+    margin-left: 297px;
+    border-radius: 50px;
+    width: 174px;
+    height: 40px;
+    text-align: center;
+    margin-top: -40px;
+}
