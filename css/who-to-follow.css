@@ -57,3 +57,13 @@
 .who-to-follow__button:hover{
     background: rgba(29, 161, 242, 0.1);
 }
+.tweet-follow{
+    padding-top: 12px;
+    background-color: #1da0f2;
+    font-weight: bold;
+    margin-left: -2px;
+    border-radius: 50px;
+    width: 174px;
+    height: 40px;
+    text-align: center;
+}

@@ -31,3 +31,17 @@
 .sidebar-menu__item--active .sidebar-menu__item-icon{
     filter: invert(67%) sepia(60%) saturate(4956%) hue-rotate(176deg) brightness(95%);
 }
+
+.newsidebar-menu__item{
+    font-size: 18px;
+    color: white;
+    display: flex;
+    align-items: center;
+    font-weight: 700;
+    padding: 10px;
+    letter-spacing: 2.5px;
+}
+
+.newsidebar-menu__item:hover{
+    cursor: pointer;
+}
